@@ -1,0 +1,10 @@
+组名：SSR
+
+fragment
+陌生分享 漂流瓶
+定点分享
+模块：动态，话题，漂流瓶，协作，最热排行榜
+
+参考网站：
+片刻网：http://www.pianke.me/index/
+乐唯网：http://www.joywi.com/
